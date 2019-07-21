@@ -7,7 +7,7 @@ Size: 152
 MD5sum: 49D7F1297A6BCECE3FA8307F3A02D399
 SHA1: 44F882C57E5F7D39D9B46B398716087808894B23
 SHA256: 50FABC72524CE63F22A29EDD90D21F26151C96CF7A1E7BE85569CD08E20F22BA
-Section: Keyboards
+Section: Keyboard
 Description: khmer keyboard for iphone support ios 10 to 11.3.x
 Author: mengbekh <mengbe63@gmail)>
 Name: khmer iphone keyboard
