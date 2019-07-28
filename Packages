@@ -5,8 +5,23 @@ Maintainer: mengbekh <mengbe63@gmail.com>
 Depends: firmware (>= 12)
 Filename: /khmerpreyvengfonts.deb
 Size: 51756
-MD5sum: 938a068463b1fed849a877e7a6094cf2
+MD5sum: bcb78b87663b580ac5f5af555170da1a
 Section: Fonts
 Description: khmerpreyvengfonts support ios 9.x.x to ios 11.3.1
 Author: mengbekh <mengbe63@gmail>
 Name: IOS 9.x.x Preyveng Fonts
+
+Package: com.github.mengbekh.appsync
+Version: 8.2
+Architecture: iphoneos-arm
+Maintainer: mengbekh <mengbe63@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<< 12.2)
+Filename: /appsync8.2.deb
+Size: 35908
+MD5sum: 385c1875f31dea9b17ed7e44e3e57c7e
+SHA1: b6c5cc72b87b13295f66ee7ca1a0598f3795a62a
+SHA256: 11aa5757de544840bf45e3bfce9b6c040b150f663c56961974b87727a8a58a54
+Section: Tweaks
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: mengbekh <mengbe63@gmail.com>
+Name: appsync8.2
