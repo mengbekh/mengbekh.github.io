@@ -27,3 +27,18 @@ Section: Tweaks
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Author: mengbekh <mengbe63@gmail.com>
 Name: appsync8.2
+
+Package: com.github.mengbekh.localiapstore
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: mengbekh <mengbe63@gmail.com>
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: /localiapstore2.3
+Size: 71042
+MD5sum: fb73a327dc511b6d28b002cf06f959d9
+SHA1: fe02c540face5581d19d4817814a1940fe06fee0
+SHA256: 12de91870f146522a49e92c7be112fd89cc4cc16bc16a2a52baecbf3ca6b60dd
+Section: Tweaks
+Description: Hack games and apps
+Author: mengbekh <mengbe63@gmail.com>
+Name: localiapstore2.3
