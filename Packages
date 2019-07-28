@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: mengbekh <mengbe63@gmail.com>
 Depends: firmware (>= 12)
 Filename: /khmerpreyvengfonts.deb
-Size: 51714
+Size: 51756
 MD5sum: 938a068463b1fed849a877e7a6094cf2
 Section: Fonts
 Description: khmerpreyvengfonts support ios 9.x.x to ios 11.3.1
