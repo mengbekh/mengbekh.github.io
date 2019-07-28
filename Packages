@@ -12,3 +12,18 @@ Section: Fonts
 Description: khmerpreyvengfonts support ios 9.x.x to ios 11.3.1
 Author: mengbekh <mengbe63@gmail>
 Name: khmerpreyvengfontsforios
+
+Package: com.mengbekh.\appsync
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: mengbekh <mengbe63@gmail.com>
+Depends: firmware (>= 12.2)
+Filename: debs/appsync.deb
+Size: 29054
+MD5sum: b381138d369e5781408ba71debfc32c0
+SHA1: 8a3105cfda999f44e3fdd3354fc515c35cde0b89
+SHA256: 71ddc3c08894eeaa4fb7dac824170e8583b348325897cfe3b1868854a0c555bc
+Section: Tweaks
+Description: appsync support ios 5.x.x to ios 12.2
+Author: mengbekh <mengbe63@gmail>
+Name: appsync for ios
