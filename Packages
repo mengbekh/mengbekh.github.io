@@ -6,6 +6,8 @@ Depends: firmware (>= 12)
 Filename: /khmerpreyvengfonts.deb
 Size: 51756
 MD5sum: bcb78b87663b580ac5f5af555170da1a
+SHA1: f6718d550413737ee3d2243b396307f924b49ef7
+SHA256: dbcf85e699a36bd9bc4050517ca1a45f70b159520125da91447de9a091ba0c1e
 Section: Fonts
 Description: khmerpreyvengfonts support ios 9.x.x to ios 11.3.1
 Author: mengbekh <mengbe63@gmail>
@@ -15,7 +17,7 @@ Package: com.github.mengbekh.appsync
 Version: 8.2
 Architecture: iphoneos-arm
 Maintainer: mengbekh <mengbe63@gmail.com>
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<< 12.2)
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<< 12)
 Filename: /appsync8.2.deb
 Size: 35908
 MD5sum: 385c1875f31dea9b17ed7e44e3e57c7e
